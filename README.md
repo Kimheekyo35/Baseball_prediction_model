@@ -33,11 +33,13 @@
 ├── modeling
 │   ├── pitcher_model.pkl
 │   └── hitter_model.pkl
-├── pages
-│   ├── 📈_EDA.py
-│   ├── 🏏_hitter_modeling.py
-│   └── 🧤_pitcher_modeling.py
-├── pitcher_modeling_python.py
-└── MAIN.py (Streamlit 실행을 위한 메인 페이지, 예시)
+├── pages (streamlit)
+│   ├── MAIN.py (Streamlit 실행을 위한 메인 페이지, 예시)
+│     └── 📈_EDA.py
+│     └──  🏏_hitter_modeling.py
+│     └── 🧤_pitcher_modeling.py
+├── python files (for modeling)
+  ├── pitcher_modeling_python.py
+  ├── hitter_modling_python.py
 
 ```
